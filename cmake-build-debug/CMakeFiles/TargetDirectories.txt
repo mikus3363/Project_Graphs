@@ -1,0 +1,3 @@
+C:/Users/mikus/OneDrive/Pulpit/Projekty/ProjektAIZO2/cmake-build-debug/CMakeFiles/ProjektAIZO2.dir
+C:/Users/mikus/OneDrive/Pulpit/Projekty/ProjektAIZO2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikus/OneDrive/Pulpit/Projekty/ProjektAIZO2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
